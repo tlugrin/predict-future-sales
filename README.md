@@ -28,4 +28,5 @@ and date information. The test set consists of shop and item ID's.
 * An empty `Submission` folder where submission files are stored by the last
   two notebooks.
 
-* The file `instructions.md` gives a quick overview of the methodolgy used.
+* The file `methodology_description.md` gives a quick overview of the
+  methodolgy used.
